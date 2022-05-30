@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "759764871754",
+    "project_id": "todoapp-49584",
+    "storage_bucket": "todoapp-49584.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759764871754:android:61a10c58d29c35267b54b3",
+        "android_client_info": {
+          "package_name": "com.andika.aplikasi.todolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759764871754-4stmvbfcaeu26qd5v11v4jafoedrov19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-UIV45_Uof1JdX1rdB58ZGTV1SoplXYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759764871754-4stmvbfcaeu26qd5v11v4jafoedrov19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
